@@ -1,0 +1,29 @@
+li#country-news {
+    list-style: none;
+    transition: all .3s;
+}
+
+li#country-news a {
+    text-decoration: none;
+    transition: all .3s;
+    color: #3e3e3e;
+    font-weight: 500;
+
+}
+
+li#country-news a:hover {
+    padding-left: 4px;
+    color: #03a9f4;
+    transition: all .3s;
+}
+
+li#country-news:before {
+    content: "\f123";
+    font-family: 'dashicons';
+    font-size: 14px;
+}
+
+li#country-news:hover:before {
+    color: #03a9f4;
+    transition: all .3s;
+}

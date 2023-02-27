@@ -1,0 +1,88 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Countries' Crypto Laws\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-14 10:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: ccl"
+
+#: Includes/CreateCustomPostType.php:74
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: Includes/CreateCustomPostType.php:127
+msgid "Add New Continent"
+msgstr ""
+
+#: Includes/CreateCustomPostType.php:126
+msgid "All Continents"
+msgstr ""
+
+#: Includes/CreateCustomPostType.php:124
+msgid "Continent"
+msgstr ""
+
+#: Includes/CreateCustomPostType.php:125
+msgid "Continents"
+msgstr ""
+
+#. Name of the plugin
+msgid "Countries' Crypto Laws"
+msgstr ""
+
+#. Description of the plugin
+msgid "Crypto news involving Countries"
+msgstr ""
+
+#: Includes/CreateCustomPostType.php:75
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: Includes/CreateCustomPostType.php:76
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: Includes/CreateCustomPostType.php:79
+#, php-format
+msgid "No %s Found"
+msgstr ""
+
+#: Includes/CreateCustomPostType.php:80
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#. Author of the plugin
+msgid "Saeed Ghourbanian"
+msgstr ""
+
+#: Includes/CreateCustomPostType.php:78
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: Includes/CreateCustomPostType.php:150 Includes/CreateCustomPostType.php:167
+msgid "Select Country"
+msgstr ""
+
+#: Includes/CreateCustomPostType.php:77
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: Includes/RestApiHandler.php:36
+msgid "We have encountered an issue with the source of the List of Countries."
+msgstr ""

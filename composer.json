@@ -1,0 +1,17 @@
+{
+    "name": "ccl/countrycryptolaws",
+    "autoload": {
+        "psr-4": {
+            "ccl\\countrycryptolaws\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "friendsofphp/php-cs-fixer": "^3.8",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "scripts": {
+        "fix-cs": "php-cs-fixer fix ./",
+        "test-cs": "php-cs-fixer fix ./ --dry-run -v"
+    }
+}
